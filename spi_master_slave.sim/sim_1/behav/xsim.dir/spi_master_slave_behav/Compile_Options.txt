@@ -1,0 +1,1 @@
+-wto "33608245ef9048c9ac13f4c834f9c186" --debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "spi_master_slave_behav" "xil_defaultlib.spi_master_slave" -log "elaborate.log" 

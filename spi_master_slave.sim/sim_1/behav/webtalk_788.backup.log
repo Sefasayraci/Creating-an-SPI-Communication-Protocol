@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sun Nov 20 00:21:17 2022
+# Process ID: 12912
+# Log file: C:/Users/sefas/OneDrive/Masats/spi_mastwer_slave/spi_mastwer_slave.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/sefas/OneDrive/Masats/spi_mastwer_slave/spi_mastwer_slave.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/sefas/OneDrive/Masats/spi_mastwer_slave/spi_mastwer_slave.sim/sim_1/behav/xsim.dir/spi_master_slave_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 1183813383 -regid "212259736_0_0_922" -xml C:/Users/sefas/OneDrive/Masats/spi_mastwer_slave/spi_mastwer_slave.sim/sim_1/beh..."
+    (file "C:/Users/sefas/OneDrive/Masats/spi_mastwer_slave/spi_mastwer_slave.sim/sim_1/behav/xsim.dir/spi_master_slave_behav/webtalk/xsim_webtalk.tcl" line 41)
+INFO: [Common 17-206] Exiting Webtalk at Sun Nov 20 00:21:18 2022...
